@@ -1,10 +1,5 @@
 # Memories App
 #### Full Mern Stack Application
-
-### Scripts
-#### client and Server
-## npm start
-
 #### Sign In Page
 ![screenbud-feae4b0a-a566-4b84-894e-69f40fec6424](https://user-images.githubusercontent.com/65248360/158360028-09fb337d-d6e7-4b3c-9e4d-85a90ddceb1a.png)
 #### Home Page
